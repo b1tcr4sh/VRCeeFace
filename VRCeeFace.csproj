@@ -2,14 +2,14 @@
 
   <ItemGroup>
     <Reference Include="VRCFacetracking.Core">
-      <HintPath>VRCFaceTracking.Core/bin/Debug/net7.0/VRCFaceTracking.Core.dll</HintPath>
+      <HintPath>lib\VRCFaceTracking.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
 </Project>

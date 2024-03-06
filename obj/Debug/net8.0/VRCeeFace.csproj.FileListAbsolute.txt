@@ -2,14 +2,11 @@
 /home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/VRCeeFace.AssemblyInfoInputs.cache
 /home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/VRCeeFace.AssemblyInfo.cs
 /home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/VRCeeFace.csproj.CoreCompileInputs.cache
-/home/bitcrsh/dev/VRCeeFace/bin/Debug/net8.0/VRCeeFace
 /home/bitcrsh/dev/VRCeeFace/bin/Debug/net8.0/VRCeeFace.deps.json
-/home/bitcrsh/dev/VRCeeFace/bin/Debug/net8.0/VRCeeFace.runtimeconfig.json
 /home/bitcrsh/dev/VRCeeFace/bin/Debug/net8.0/VRCeeFace.dll
 /home/bitcrsh/dev/VRCeeFace/bin/Debug/net8.0/VRCeeFace.pdb
 /home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/VRCeeFace.dll
 /home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/refint/VRCeeFace.dll
 /home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/VRCeeFace.pdb
-/home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/VRCeeFace.genruntimeconfig.cache
 /home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/ref/VRCeeFace.dll
-/home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/VRCeeFace.csproj.AssemblyReference.cache
+/home/bitcrsh/dev/VRCeeFace/obj/Debug/net8.0/VRCeeFace.sourcelink.json
