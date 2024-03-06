@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OBaH9T4Q+un8IKNRiub//VXpBbgBlAh3BeGiIYJJ+A+usStip4gXTaqiH8tUWoBJ4pd07OwM7ZH7UAwKGxNJVw==",
+  "success": true,
+  "projectFilePath": "/home/bitcrsh/dev/VRCeeFace/VRCeeFace.csproj",
+  "expectedPackageFiles": [
+    "/home/bitcrsh/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

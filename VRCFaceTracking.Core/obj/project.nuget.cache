@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJfPg63EUfgGCO0PytryS7IbCJCOXkxlYqr7OXld3RPhFNIq8bXOjfrb0mHKmuHk5bSX+Dj+D5RTv2/Hnfi2yA==",
+  "success": true,
+  "projectFilePath": "/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/VRCFaceTracking.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/bitcrsh/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/bitcrsh/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/home/bitcrsh/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/home/bitcrsh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

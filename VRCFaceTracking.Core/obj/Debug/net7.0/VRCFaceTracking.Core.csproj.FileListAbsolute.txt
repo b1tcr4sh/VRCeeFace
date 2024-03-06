@@ -1,0 +1,14 @@
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/bin/Debug/net7.0/fti_osc.dll
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/obj/Debug/net7.0/VRCFaceTracking.Core.csproj.AssemblyReference.cache
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/obj/Debug/net7.0/VRCFaceTracking.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/obj/Debug/net7.0/VRCFaceTracking.Core.AssemblyInfoInputs.cache
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/obj/Debug/net7.0/VRCFaceTracking.Core.AssemblyInfo.cs
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/obj/Debug/net7.0/VRCFaceTracking.Core.csproj.CoreCompileInputs.cache
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/obj/Debug/net7.0/VRCFaceTracking.Core.dll
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/obj/Debug/net7.0/refint/VRCFaceTracking.Core.dll
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/obj/Debug/net7.0/VRCFaceTracking.Core.pdb
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/bin/Debug/net7.0/VRCFaceTracking.Core.dll.config
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/bin/Debug/net7.0/VRCFaceTracking.Core.deps.json
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/bin/Debug/net7.0/VRCFaceTracking.Core.dll
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/bin/Debug/net7.0/VRCFaceTracking.Core.pdb
+/home/bitcrsh/dev/VRCeeFace/VRCFaceTracking.Core/obj/Debug/net7.0/ref/VRCFaceTracking.Core.dll
